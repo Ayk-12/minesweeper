@@ -1,7 +1,7 @@
 # Minesweeper
 This project is a recreation of the classic Minesweeper game. The code and assets were written and drawn from scratch.
 
-insert image
+![minesweeper-empty](https://github.com/Ayk-12/minesweeper/blob/main/Screenshots/minesweeper-empty.png)
 
 ## Gameplay
 
@@ -11,4 +11,4 @@ Clicking on the smiley face on the top resets the board. The game finishes when 
 
 The game starts with a single green tile. It is encouraged to start from there, as it is guaranteed that the green tile is safe.
 
-insert image
+![](https://github.com/Ayk-12/minesweeper/blob/main/Screenshots/minesweeper-start.png)
